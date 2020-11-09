@@ -1,0 +1,2 @@
+# ApplePie
+“Apple Pie is a simple word-guessing game, where the user must guess a word, letter by letter, before all the apples fall off of the apple tree. If there are apples remaining, the user wins—and can eat delicious Apple Pie.” Excerpt From: Apple Education. “Develop in Swift Fundamentals.” Apple Inc. - Education, 2020. Apple Books. https://books.apple.com/jp/book/develop-in-swift-fundamentals/id1511184145?l=en
