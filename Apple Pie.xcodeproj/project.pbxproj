@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0003456425595FEE00034FCB /* Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0003456425595FEE00034FCB /* ApplePie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApplePie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0003456725595FEE00034FCB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0003456925595FEE00034FCB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0003456B25595FEE00034FCB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		0003456525595FEE00034FCB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0003456425595FEE00034FCB /* Apple Pie.app */,
+				0003456425595FEE00034FCB /* ApplePie.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0003456325595FEE00034FCB /* Apple Pie */ = {
+		0003456325595FEE00034FCB /* ApplePie */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0003457825595FF100034FCB /* Build configuration list for PBXNativeTarget "Apple Pie" */;
+			buildConfigurationList = 0003457825595FF100034FCB /* Build configuration list for PBXNativeTarget "ApplePie" */;
 			buildPhases = (
 				0003456025595FEE00034FCB /* Sources */,
 				0003456125595FEE00034FCB /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "Apple Pie";
+			name = ApplePie;
 			productName = "Apple Pie";
-			productReference = 0003456425595FEE00034FCB /* Apple Pie.app */;
+			productReference = 0003456425595FEE00034FCB /* ApplePie.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0003456325595FEE00034FCB /* Apple Pie */,
+				0003456325595FEE00034FCB /* ApplePie */,
 			);
 		};
 /* End PBXProject section */
@@ -278,6 +278,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -335,7 +336,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0003457825595FF100034FCB /* Build configuration list for PBXNativeTarget "Apple Pie" */ = {
+		0003457825595FF100034FCB /* Build configuration list for PBXNativeTarget "ApplePie" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0003457925595FF100034FCB /* Debug */,
